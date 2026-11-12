@@ -16,3 +16,6 @@ Author
 
 Code written by Yasel Rodriguez
 
+
+Reviewed by: Ouweis Amrani
+I checked the code and everything looks good. The inheritance, Scanner, and salary calculations are correct.
